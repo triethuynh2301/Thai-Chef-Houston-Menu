@@ -1,0 +1,33 @@
+.category-heading
+{
+  font-size: 48px;
+  color:#a88732;
+  font-family: 'Festive', cursive;
+}
+
+.category-subheading
+{
+  color:#a88732;
+  font-family: 'Abril Fatface', cursive;
+}
+
+.menu-label
+{
+  position: relative;
+}
+
+.price
+{
+  color:#a88732;
+  font-weight: bold;
+  position: absolute;
+  right: 10%;
+}
+
+.order-online
+{
+  font-size: 32px;
+  border-radius: 10px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
